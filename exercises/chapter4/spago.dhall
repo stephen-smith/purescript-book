@@ -10,6 +10,7 @@ You can edit this file as you like.
   , "effect"
   , "foldable-traversable"
   , "integers"
+  , "lists"
   , "maybe"
   , "prelude"
   , "psci-support"
